@@ -9,5 +9,6 @@ public class test {
         System.out.println("修改！！！");
         System.out.println("qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq");
         System.out.println("电脑修改！！！");
+        System.out.println("github更新！！！");
     }
 }
